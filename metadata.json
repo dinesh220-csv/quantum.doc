@@ -1,0 +1,6 @@
+{
+  "name": "QuantumDock",
+  "description": "AI & Quantum Drug Discovery Studio simulating VQE quantum docking and Gemini-powered biomolecule affinity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
